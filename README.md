@@ -1,5 +1,5 @@
-## Migrtions
-## NAME: Selvarani s
+## Migration
+## NAME: SELVARANI S
 ## REG NO: 212224040301
 ## Aim:
 To move the files between virtual machine.
